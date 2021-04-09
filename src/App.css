@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+.host-name {
+  text-transform: uppercase;
+}
